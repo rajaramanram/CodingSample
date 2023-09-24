@@ -1,0 +1,10 @@
+npm install -- to install prompt package
+
+1) Fibnocci
+a) comand to run Fibnocci code  -  node fibnocciCode.js
+b) Enter the number as input
+
+2) Balanced SubString
+a) command to run BalancedSubString  - node getBalancedSubString.js
+b) Enter the string - "cabbacc","abababa", "aaaaaaa"# CodingSample
+code for Fibnocci and substring Array
